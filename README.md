@@ -1,4 +1,5 @@
 # CodeIgniterStudy
+
 Study CodeIngiter by Example
 
 In this repository, all the examples are created by **composer** command **create-project** with **codeigniter/framework**
@@ -21,7 +22,7 @@ cd <example project folder>
 php -S localhost:<test port number>
 ```
 
-**Components**
+## Components
 
 * Controller
 * Model
@@ -30,24 +31,31 @@ php -S localhost:<test port number>
 * Library 
 * Composer Library Integration
 
-## Controller
+### Controller
+
+It is reponsible for handling HTTP Request 
+
+### Model
 
 
-## Model
+### View
 
 
-## View
+### Helper
 
 
-## Helper
+### Library
 
 
-## Library
+## Configuration
 
+### Auto-loading Resources
 
-## Composer Library Integration
+## Misc
 
-# Reference
+### Composer Library Integration
 
-*https://codeigniter.com/
+## Reference
+
+* https://codeigniter.com/
 
