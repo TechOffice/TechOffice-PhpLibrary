@@ -47,7 +47,7 @@ Models are PHP classes that are designed to work with database.
 
 View is a web page (page fragment like header, footer, sidebar) which would be loaded by controller.
 
-[030-ModelExample](030-ModelExample)
+[040-ViewExample](040-ViewExample)
 
 ### Helper
 
