@@ -33,19 +33,23 @@ php -S localhost:<test port number>
 
 ### Controller
 
-It is reponsible for handling HTTP Request 
+Controller is reponsible for handling HTTP Request 
 
 ### Model
 
+Models are PHP classes that are designed to work with database.
 
 ### View
 
+View is a web page (page fragment like header, footer, sidebar) which would be loaded by controller.
 
 ### Helper
 
+Helper is a collection of functions.
 
 ### Library
 
+Library are PHP Classes which can be entirely new libraries, extended native libraries or replaced native libraries.
 
 ## Configuration
 
