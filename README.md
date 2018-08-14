@@ -35,6 +35,8 @@ php -S localhost:<test port number>
 
 Controller is reponsible for handling HTTP Request 
 
+[020-ControllerExample](020-ControllerExample)
+
 ### Model
 
 Models are PHP classes that are designed to work with database.
