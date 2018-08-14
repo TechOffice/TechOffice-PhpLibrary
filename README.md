@@ -41,9 +41,13 @@ Controller is reponsible for handling HTTP Request
 
 Models are PHP classes that are designed to work with database.
 
+[030-ModelExample](030-ModelExample)
+
 ### View
 
 View is a web page (page fragment like header, footer, sidebar) which would be loaded by controller.
+
+[030-ModelExample](030-ModelExample)
 
 ### Helper
 
